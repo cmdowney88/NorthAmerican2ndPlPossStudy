@@ -1,3 +1,5 @@
 *.html
 *.jpg
 .DS_Store
+.idea
+*.xml
