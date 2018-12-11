@@ -1,0 +1,7 @@
+region,count,yours_emph_top,yalls_emph_top,you_guys_emph_top,you_guyses_emph_top,your_guyses_emph_top,yours_emph_bottom,yalls_emph_bottom,you_guys_emph_bottom,you_guyses_emph_bottom,your_guyses_emph_bottom
+canada,14,1.0,0.286,0.143,0.143,0.429,0.0,0.429,0.286,0.214,0.071
+the_east,9,1.0,0.222,0.222,0.222,0.333,0.0,0.333,0.556,0.0,0.111
+the_midland,6,0.833,0.167,0.5,0.0,0.5,0.167,0.167,0.5,0.167,0.0
+the_north,27,0.852,0.148,0.259,0.185,0.556,0.074,0.444,0.296,0.111,0.074
+the_south,12,0.833,0.917,0.0,0.083,0.167,0.0,0.0,0.583,0.083,0.333
+the_west,37,0.919,0.324,0.054,0.081,0.622,0.0,0.108,0.784,0.081,0.027

@@ -1,0 +1,7 @@
+region,count,your_poss_top,yalls_poss_top,you_guys_poss_top,you_guyses_poss_top,your_guyses_poss_top,your_poss_bottom,yalls_poss_bottom,you_guys_poss_bottom,you_guyses_poss_bottom,your_guyses_poss_bottom
+canada,14,1.0,0.071,0.071,0.0,0.857,0.0,0.5,0.357,0.143,0.0
+the_east,9,1.0,0.222,0.111,0.222,0.444,0.0,0.444,0.333,0.111,0.111
+the_midland,6,0.833,0.333,0.167,0.167,0.5,0.0,0.0,0.167,0.5,0.333
+the_north,27,0.852,0.037,0.185,0.222,0.704,0.0,0.593,0.074,0.259,0.074
+the_south,12,0.917,0.833,0.0,0.083,0.167,0.0,0.0,0.667,0.0,0.333
+the_west,37,0.865,0.054,0.054,0.081,0.946,0.0,0.216,0.595,0.189,0.0
