@@ -2,15 +2,15 @@
 
 FOR: University of Washington, LING 532 Sociolinguistics; Dr. Alicia Wassink
 
-####Main Data File:
+#### Main Data File:
 
 2ndPlData.csv
 
-####Main Analysis Script:
+#### Main Analysis Script:
 
 2ndPlAnalysis.py
 
-####Aggregated Data Files:
+#### Aggregated Data Files:
 
 experiment_1.csv
 
@@ -24,9 +24,9 @@ experiment_3.csv
 
 experiment_3_agg.csv
 
-##Links to Sentence Recordings Used in the Survey:
+## Links to Sentence Recordings Used in the Survey:
 
-####Experiment 1
+#### Experiment 1
 
 "What are you doing here?" https://youtu.be/vnTZrgW51Pk
 
@@ -34,7 +34,7 @@ experiment_3_agg.csv
 
 "What are you-guys doing here?" https://youtu.be/F6gWLwOPeyw
 
-####Experiment 2
+#### Experiment 2
 
 "Your class is down the hall" https://youtu.be/aWPCLARHqwg
 
@@ -46,7 +46,7 @@ experiment_3_agg.csv
 
 "Your-guyses' class is down the hall" https://youtu.be/C248zzK-XBM
 
-####Experiment 3
+#### Experiment 3
 
 "Wait a second, I think these are yours" https://youtu.be/WajJW7mWrbo
 
